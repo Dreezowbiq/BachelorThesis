@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'Raspberry_Pi_3'
+}
+item {
+    id: 2
+    name: 'Arduino_Nano'
+}
